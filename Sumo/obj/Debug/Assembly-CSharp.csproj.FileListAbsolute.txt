@@ -1,0 +1,3 @@
+C:\Users\Public\Documents\Unity Projects\Sumo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\SumoGame\Sumo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Sumo\Sumo\Sumo\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

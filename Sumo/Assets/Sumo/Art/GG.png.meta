@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 0e322f37374137d49b84407aea83f3dd
+timeCreated: 1446284137
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GG_6
+    21300002: GG_19
+    21300004: GG_20
+    21300006: GG_39
+    21300008: GG_40
+    21300010: GG_41
+    21300012: GG_42
+    21300014: GG_45
+    21300016: GG_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GG_6
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2203
+        width: 785
+        height: 887
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GG_19
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1848
+        width: 208
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GG_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1281
+        width: 785
+        height: 700
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GG_39
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 988
+        width: 370
+        height: 359
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GG_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 856
+        width: 590
+        height: 431
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GG_41
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1079
+        width: 208
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GG_47
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 590
+        height: 431
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

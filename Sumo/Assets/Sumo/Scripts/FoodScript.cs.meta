@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 341b6e9c31811594d9f93a2463e637b5
+<<<<<<< Updated upstream
+timeCreated: 1446928059
+=======
+timeCreated: 1446709723
+>>>>>>> Stashed changes
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - s0: {fileID: 21300000, guid: d6f596b7b80d9d14c92703ec94b25301, type: 3}
+<<<<<<< Updated upstream
+  - s1: {fileID: 21300002, guid: d6f596b7b80d9d14c92703ec94b25301, type: 3}
+  - s2: {fileID: 21300004, guid: d6f596b7b80d9d14c92703ec94b25301, type: 3}
+  - s3: {fileID: 21300008, guid: d6f596b7b80d9d14c92703ec94b25301, type: 3}
+=======
+  - s1: {instanceID: 0}
+  - s2: {instanceID: 0}
+  - s3: {instanceID: 0}
+>>>>>>> Stashed changes
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
